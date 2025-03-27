@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-27T15:38:08.662</Modified>
+      <Modified>2025-03-27T22:00:18.116</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-27T15:38:08.314</Modified>
+      <Modified>2025-03-27T21:32:36.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cursoApp.runtimeconfig.json">
       <PackagePath>cursoApp.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cursoApp.dll">
       <PackagePath>cursoApp.dll</PackagePath>
-      <Modified>2025-03-27T15:38:05.211</Modified>
+      <Modified>2025-03-27T22:00:17.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>cursoApp.exe</PackagePath>
-      <Modified>2025-03-27T15:38:05.295</Modified>
+      <Modified>2025-03-27T22:00:17.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Archivos de Programa\Aplicaaciones\cursoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cursoApp.deps.json">
       <PackagePath>cursoApp.deps.json</PackagePath>
-      <Modified>2025-03-27T15:38:07.532</Modified>
+      <Modified>2025-03-27T21:32:35.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
